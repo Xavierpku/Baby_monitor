@@ -1,13 +1,3 @@
-//***********************************************************************//
-//
-//	File Name:	 Timer.h
-//	Author:		 Ramsundar K G (ramsundar@asu.edu)
-//	Date:		 December 22, 2016
-//
-//	Description: Timer Header file. Used for measuring time intervals.
-//
-//***********************************************************************//
-
 #pragma once
 
 #define __cplusplus 201103L
